@@ -1,0 +1,64 @@
+@media screen and (max-width: 479px) {
+
+.header {
+    width:200px ;
+    height: 200px;
+    margin: auto;
+} 
+
+.container {
+    width: 60px;
+    height: 160px;
+    background-color: white;
+    margin: 20px auto;
+}
+
+.box1 {
+    float: none;
+}
+
+.box2 {
+    float: none;
+    margin-top: 0;
+    margin-left: 10px;
+}
+
+.box3 {
+    float: none;
+}
+
+.main {
+    display: block;
+}
+
+.left {
+    width: 200px;
+    height: 100px;
+}
+
+.right {
+    width: 200px;
+    height: 210px;
+    background-color: #8c2727;
+}
+
+.square {
+    width: 130px;
+    height: 170px;
+    margin-top: 20px;
+    margin-left: 30px;
+    }
+
+    .up {
+        width: 130px;
+    }
+    
+    .mid {
+        width: 130px;
+    }
+    
+    .low {
+        width: 130px;
+    }
+
+}
